@@ -1,4 +1,5 @@
 # Breast-Cancer-Prediction-
+K-means and Spectral Clustering from scratch
 
 This project aims to analyze the Breast Cancer Wisconsin Diagnostic Dataset using supervised and unsupervised machine learning
 methods. The dataset contains information about breast cancer tumors, including numerical features that describe each tumor. We are
